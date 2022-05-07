@@ -19,10 +19,10 @@ Progress is shown during execution. The random waiting timer between curl reques
 ## Troubleshooting
 
 It can happen that RateYourMusic banned your ip address (that's rare) or a captacha is required in order to let you access the site.
-If that's the case, you will need to go manually to the website with the same ip address on your browser and complete the captcha
-Once done, go to Dev Tools > Network > Record
-Then refresh the page and grab the session cookie, and replace the one on line 13 by yours.
-The script should now work properly.
-If, however, your ip has been banned, you are welcome to use a VPN in order to avoid the restriction.
+If that's the case, you will need to go manually to the website with the same ip address on your browser and complete the captcha.<br />
+Once done, go to Dev Tools > Network > Record<br />
+Then refresh the page and grab the session cookie, and replace the one on line 13 by yours.<br />
+The script should now work properly.<br />
+If, however, your ip has been banned, you are welcome to use a VPN in order to avoid the restriction.<br /><br />
 
 Have a great scrap!
