@@ -1,4 +1,4 @@
-# RateYourMusic userrating scraper
+# RateYourMusic user rating scraper
 
 This repository contains a bash script that scraps the general rating of a specific user list and outputs a coherent and useful .CSV file.
 
