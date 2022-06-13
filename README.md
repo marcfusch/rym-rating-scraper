@@ -18,7 +18,7 @@ Progress is shown during execution. The random waiting timer between curl reques
 
 ## Troubleshooting
 
-It can happen that RateYourMusic banned your ip address (that's rare) or a captacha is required in order to let you access the site.
+It can happen that RateYourMusic banned your ip address (that's rare) or a captcha is required in order to let you access the site.
 If that's the case, you will need to go manually to the website with the same ip address on your browser and complete the captcha.<br />
 Once done, go to Dev Tools > Network > Record<br />
 Then refresh the page and grab the session cookie, and replace the one on line 13 by yours.<br />
